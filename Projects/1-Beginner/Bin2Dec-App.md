@@ -46,3 +46,5 @@ Try not to view this until you've developed your own solution:
 -   [Matrix-like Binary to Decimal converter using Angular](https://github.com/ZangiefWins/MatrixBin2Dec)
     -   [Live preview on heroku](https://matrix-bin2dec.herokuapp.com/)
 -   [Binary to Decimal converter with Kotlin for Android](https://github.com/commandiron/Bin2Dec_by_command)
+
+-   [Binary to decimal converter using html, css and vanilla javascript](https://github.com/eliasbiondo/bin2dec)
